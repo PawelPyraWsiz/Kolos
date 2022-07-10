@@ -1,0 +1,3 @@
+﻿  Figura.cpp
+C:\Users\w66952\Desktop\Kolokwium\w66952\w66952\Figura.cpp(41,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  w66952.vcxproj -> C:\Users\w66952\Desktop\Kolokwium\w66952\Debug\w66952.exe
